@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873253193606",
+    "project_id": "quizapp-ae773",
+    "storage_bucket": "quizapp-ae773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873253193606:android:0d6da131fc9462c1814e07",
+        "android_client_info": {
+          "package_name": "com.hazrat.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873253193606-gpj37cfboqt1h5squh2nl9qa6kiaq7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTA_YfqSs09QHU4TWZ-gByuQrj9wBelw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873253193606-gpj37cfboqt1h5squh2nl9qa6kiaq7vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
